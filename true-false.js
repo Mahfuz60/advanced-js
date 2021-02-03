@@ -1,4 +1,11 @@
-// False value list:0,empty string(faka string),undefined value,null value,NaN(not a number)
+// False value list:
+//0(Zero value)
+//""(Empty string)
+//undefined value 
+//NaN(Not a number) value
+//null value
+
+
 
 //value check 0 chara always true
 const age=4;
