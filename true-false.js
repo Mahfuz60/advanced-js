@@ -1,10 +1,16 @@
-// False value list:
+// Falsy value list:
+//false
 //0(Zero value)
 //""(Empty string)
 //undefined value 
 //NaN(Not a number) value
 //null value
 
+// Truthy value list:
+//'0'(string ae 0 value rakle true hbe)
+//" "(string ae modhe faka space rakle true hbe)
+//{}=>empty object true
+//[]=>empty array true
 
 
 //value check 0 chara always true
